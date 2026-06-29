@@ -18,6 +18,10 @@ O objetivo do projeto é apresentar e divulgar soluções tecnológicas que impa
 * CSS3
 * JavaScript
 
+Link do Projeto 
+
+https://gracebeckmann.github.io/Woman-Technology/
+
 ---
 
 ## 👩‍💻 Equipe de Desenvolvimento
